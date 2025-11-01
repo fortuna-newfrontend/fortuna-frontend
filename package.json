@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortuna-newfrontend/fortuna-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fortuna-newfrontend/fortuna-frontend/issues"
+  },
+  "homepage": "https://github.com/fortuna-newfrontend/fortuna-frontend#readme",
+  "dependencies": {
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
